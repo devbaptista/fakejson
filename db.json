@@ -1,27 +1,27 @@
 {
-    "lst": [
-        {
-            "invoice_id": "EA4F614E141C4AC3A84D6B1B6A393084",
-            "due_date": "24/06/2020",
-            "value": 49.0,
-            "status": "Pendente de Pagamento",
-            "plan": "Mudança de Plano: Basic",
-            "url": "https://faturas.iugu.com/ea4f614e-141c-4ac3-a84d-6b1b6a393084-f433"
-        },
-        {
-            "invoice_id": "EC1339C931DB4A99BAE06C2938CB26CF",
-            "due_date": "24/06/2020",
-            "value": 149.0,
-            "status": "Cancelada",
-            "plan": "Ativação de Assinatura: Intermediate",
-            "url": "https://faturas.iugu.com/ec1339c9-31db-4a99-bae0-6c2938cb26cf-844a"
-        }
-    ],
-    "pagination": {
-        "total": 2,
-        "total_pages": 1,
-        "actual_page": 0,
-        "page_size": 10
+"lst": [
+    {
+        "invoice_id": "EA4F614E141C4AC3A84D6B1B6A393084",
+        "due_date": "24/06/2020",
+        "value": 49.0,
+        "status": "Pendente de Pagamento",
+        "plan": "Mudança de Plano: Basic",
+        "url": "https://faturas.iugu.com/ea4f614e-141c-4ac3-a84d-6b1b6a393084-f433"
     },
-    "success": true
+    {
+        "invoice_id": "EC1339C931DB4A99BAE06C2938CB26CF",
+        "due_date": "24/06/2020",
+        "value": 149.0,
+        "status": "Cancelada",
+        "plan": "Ativação de Assinatura: Intermediate",
+        "url": "https://faturas.iugu.com/ec1339c9-31db-4a99-bae0-6c2938cb26cf-844a"
+    }
+],
+"pagination": {
+    "total": 2,
+    "total_pages": 1,
+    "actual_page": 0,
+    "page_size": 10
+},
+"success": true
 }
